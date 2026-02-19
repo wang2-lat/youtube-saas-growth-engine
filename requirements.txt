@@ -1,5 +1,9 @@
+analyticsdashboard
 click>=8.0.0
-openai
-praw
-requests
-yt-dlp
+emailautomation
+googlesearchconsoleapi
+nlpforcommentanalysis
+seooptimizationtools
+videotranscriptionapi
+webscraping
+youtubedataapi
