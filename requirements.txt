@@ -1,5 +1,5 @@
-beautifulsoup
 click>=8.0.0
-openaiapi
+openai
+praw
 requests
-youtubedataapi
+yt-dlp
